@@ -1,0 +1,11 @@
+
+spring: 
+  jpa: 
+    hibernate:
+      ddl-auto: create-drop
+    database: mysql
+  datasource: 
+    initialization-mode: always
+    url: jdbc:mysql://localhost:3306/tutorial?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+    username: root
+    password: celtixe
