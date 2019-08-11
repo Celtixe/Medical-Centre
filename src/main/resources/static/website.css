@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+* {
+margin: 0;
+padding: 0;
+}
+
+.fa-phone-alt{
+	padding-right: 5px;
+	
+}
+
+.fa-home:hover{
+	color: blue;
+}
+
+.custom{
+	padding-right: 1em;
+}
+
+
+
